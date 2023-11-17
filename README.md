@@ -11,6 +11,4 @@ The first and third rows depict low-light RGB images, while the second and fourt
 # Category Analysis
 The samples are categorized based on the size of salient objects into BSO (big salient object), SSO (small salient object), and MSO (multiple salient objects). The dataset also includes images captured under extreme darkness (ED) conditions and images with uneven illumination (UI). Additionally, the dataset covers both indoor scenes (IS) and outdoor scenes (OS). This dataset serves as a fundamental resource for evaluating the performance of SOD methods in challenging low-light environments.
 
-For specific details on dataset construction, please refer to the readme.
-
 PS：This dataset will soon be made publicly available.
