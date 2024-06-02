@@ -11,6 +11,6 @@ The first and third rows depict low-light RGB images, while the second and fourt
 # Category Analysis
 The samples are categorized based on the size of salient objects into BSO (big salient object), SSO (small salient object), and MSO (multiple salient objects). The dataset also includes images captured under extreme darkness (ED) conditions and images with uneven illumination (UI). Additionally, the dataset covers both indoor scenes (IS) and outdoor scenes (OS). This dataset serves as a fundamental resource for evaluating the performance of SOD methods in challenging low-light environments.
 
-Paper: Degradation-removed multiscale fusion for low-light salient object detection. Nana Yu, Jie Wang, Hong Shi, Zihao Zhang, and Yahong Han. Pattern Recognition
+Paper: Degradation-removed multiscale fusion for low-light salient object detection. Nana Yu, Jie Wang, Hong Shi, Zihao Zhang, and Yahong Han. Pattern Recognition. DOI: 10.1016/j.patcog.2024.110650
 
 The dataset is available: https://pan.baidu.com/s/1zES28jb_EIH2yZwcMBcfDw     1y3n 
